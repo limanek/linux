@@ -26,3 +26,6 @@ Tip. Użyj `ls -l` aby to sprawdzić.
 Odkryj co zrobi `mkdir` jeśli podany katalog już istnieje.
 hi
 Coffe
+Coffe
+HI
+sth more
